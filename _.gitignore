@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.ipynb_checkpoints/
+# data files (remove these lines if you are allowed to publish them)
+healthy.txt
+patient.txt
+agbani.txt
